@@ -33,6 +33,10 @@ let highScore = 0;
 // the value
 let scored = false;
 
+document.addEventListener("touchstart", (e) => {
+  birdVelocity = FLAP_SPEED;
+});
+
 // lets us control the bird with the space key
 document.body.onkeyup = function (e) {
   if (e.code == "Space") {
