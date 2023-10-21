@@ -1,3 +1,3 @@
 # Flappy-Bird.io
 
-Use spacebar to hop and click on the restart button to go again. 
+[![An image of @parvsharma04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parvsharma04)](https://holopin.io/@parvsharma04)
